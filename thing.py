@@ -26,3 +26,4 @@ class Checkers(object):
 		self.draw()
 
 c = Checkers()
+
